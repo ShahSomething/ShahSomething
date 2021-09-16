@@ -17,13 +17,16 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
 
-
+---
 
 <p align="center">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=shahsomething&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsomething&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
+
+---
 ####
+
 Outside of ![GitHub](https://github.com/shahsomething/), You can **find me. Currently I'm **free to contribute**
 
 <p >
@@ -40,4 +43,4 @@ Outside of ![GitHub](https://github.com/shahsomething/), You can **find me. Curr
     <img src="https://img.shields.io/badge/-ShahRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-raza-794470173/" />
   </a>
 </p>
-#### Open Source Contributor from [Pakistan](https://en.wikipedia.org/wiki/Pakistan) 💚     
+
