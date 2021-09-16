@@ -23,8 +23,20 @@
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=shahsomething&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsomething&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
-Outside of [GitHub](https://github.com/shahsomething/)
-[![Linkedin: ShahRaza](https://img.shields.io/badge/-ShahRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-raza-794470173/)](https://www.linkedin.com/in/shah-raza-794470173/)
-[![GitHub shahsomething](https://img.shields.io/github/followers/shahsomething?label=follow&style=social)](https://github.com/shahsomething)
+Outside of [GitHub](https://github.com/shahsomething/), You can **find me. Currently I'm **free to contribute**
 
+<p >
+  <a href="https://github.com/shahsomething?tab=followers">
+    <img src="https://komarev.com/ghpvc/?username=shahsomething&color=blue&label=Profile+Views" alt="GitHub badge" />
+  </a>
+  <a href="https://github.com/shahsomething?tab=followers">
+    <img src="https://img.shields.io/github/followers/shahsomething?label=follow&style=social" alt="GitHub badge" />
+  </a>
+  <a href="https://twitter.com/shahsomething">
+    <img src="https://img.shields.io/twitter/follow/shahsomething?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/shah-raza-794470173/">
+    <img src="https://img.shields.io/badge/-ShahRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-raza-794470173/" />
+  </a>
+</p>
 ### Open Source Contributor from [Pakistan](https://en.wikipedia.org/wiki/Pakistan) 💚     
