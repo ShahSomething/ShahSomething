@@ -1,6 +1,9 @@
-## Hello There 👋
+<p align="center">
+  <img width="100%" height='300' src="encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
+</p>
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/shahsomething) represent my journey :running_man:.<br>This is **Shah Raza**, a young tech enthusiast and a learner.I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, C/C++, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase & MySql as databases as well.
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my [**GitHub Profile**](https://github.com/shahsomething) represent my journey :running_man:.<br>This is **Shah Raza**, a young tech enthusiast and a learner.I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Structures, Internet of Things (IoT), System Programming, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, C/C++, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase & MySql as databases as well.
+</p>
 
 ## Tech Stack :computer:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
