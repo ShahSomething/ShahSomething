@@ -27,7 +27,7 @@
 ---
 ####
 
-Outside of ![GitHub](https://github.com/shahsomething/), You can **find me. Currently I'm **free to contribute**
+Outside of [GitHub](https://github.com/shahsomething/), You can **find me**. Currently I'm **free to contribute**
 
 <p >
   <a href="https://github.com/shahsomething?tab=followers">
