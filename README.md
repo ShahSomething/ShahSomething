@@ -19,8 +19,10 @@
 
 
 ![Shah's github stats](https://github-readme-stats.vercel.app/api?username=shahsomething&include_all_commits=true&show_icons=true&theme=graywhite)
-<img width="30%" height="2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianJawadAhmad&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=MianJawadAhmad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianJawadAhmad&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</p>
 Outside of [GitHub](https://github.com/shahsomething/)
 [![Linkedin: ShahRaza](https://img.shields.io/badge/-ShahRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-raza-794470173/)](https://www.linkedin.com/in/shah-raza-794470173/)
 [![GitHub shahsomething](https://img.shields.io/github/followers/shahsomething?label=follow&style=social)](https://github.com/shahsomething)
