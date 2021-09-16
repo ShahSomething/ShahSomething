@@ -19,7 +19,7 @@
 
 
 ![Shah's github stats](https://github-readme-stats.vercel.app/api?username=shahsomething&include_all_commits=true&show_icons=true&theme=graywhite)
-<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianJawadAhmad&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianJawadAhmad&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 Outside of [GitHub](https://github.com/shahsomething/)
 [![Linkedin: ShahRaza](https://img.shields.io/badge/-ShahRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-raza-794470173/)](https://www.linkedin.com/in/shah-raza-794470173/)
