@@ -1,5 +1,11 @@
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub Profile represent my journey :running_man:.<br>This is Shah Raza, a young tech enthusiast, and a learner. I am a student of Computer Systems Engineering. I have a passion for learning different things, languages, and frameworks. And in pursuit of learning, I experiment with things and sometimes get failed and sometimes succeed. I have a deep interest in Data Structures, the Internet of Things (IoT), System Programming, Computer Vision, and Mobile App Development. As far as my development journey is concerned I have started to explore Cross-Platform App Development in the shape of Flutter/Dart. Along with that, I have experience with different programming languages, C/C++, Arduino, Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase & MySql as databases as well.
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub Profile represent my journey :running_man:.<br>I'm Shah Raza, a Computer Systems Engineer and a passionate tech enthusiast. My interests include data structures, IoT, system programming, computer vision, and mobile app development, and I am currently exploring cross-platform app development with Flutter/Dart. I have experience with a range of programming languages including C/C++, Arduino, Bash Scripting, Matlab, and Dart/Flutter, and have used both Firebase and MySql as databases.
+
+On GitHub, I have contributed to a number of open source projects and have also developed my own personal projects. Some of my notable contributions include [A-EYE](https://github.com/ShahSomething/A-EYE), [Apptex Chat](https://github.com/apptexsolutions/apptex_chat), and [SnakeOS](https://github.com/ShahSomething/SnakeOS).
+
+As I continue on my development journey, I am eager to expand my knowledge and skills in the fields of Blockchain and Data science further. In my free time, I enjoy watching mind-bending shows/movies and spending time with my friends.
+
+Thank you for visiting my profile. I hope you find my work and interests interesting and informative.
 </p>
 
 ## Tech Stack :computer:
