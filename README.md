@@ -1,11 +1,11 @@
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub Profile represent my journey :running_man:.<br>I'm Shah Raza, a Computer Systems Engineer and a passionate tech enthusiast. My interests include data structures, IoT, system programming, computer vision, and mobile app development, and I am currently exploring cross-platform app development with Flutter/Dart. I have experience with a range of programming languages including C/C++, Arduino, Bash Scripting, Matlab, and Dart/Flutter, and have used both Firebase and MySql as databases.
-
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub Profile represent my journey :running_man:.<br>I'm Shah Raza, a Computer Systems Engineer, Game of Thrones superfan, and the most boring guy you'll ever meet. With dreams of becoming an astronaut, I somehow ended up being a Mobile App Developer. While my dreams of becoming an astronaut may have floated away like a rogue satellite, my love for coding keeps me soaring in the digital realm. In my free time, I enjoy watching mind-bending shows/movies, listening to 90's music and spending time with my friends. Oh, and I'm Batman 🦇
+<br><br>
 On GitHub, I have contributed to a number of open source projects and have also developed my own personal projects. Some of my notable contributions include [A-EYE](https://github.com/ShahSomething/A-EYE), [Apptex Chat](https://github.com/apptexsolutions/apptex_chat), and [SnakeOS](https://github.com/ShahSomething/SnakeOS).
 
-As I continue on my development journey, I am eager to expand my knowledge and skills in the fields of Blockchain and Data science further. In my free time, I enjoy watching mind-bending shows/movies and spending time with my friends.
 
-Thank you for visiting my profile. I hope you find my work and interests interesting and informative.
+
+Thank you for visiting my profile. Happy coding and stay batty! 🦇.
 </p>
 
 ## Tech Stack :computer:
@@ -13,12 +13,9 @@ Thank you for visiting my profile. I hope you find my work and interests interes
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
