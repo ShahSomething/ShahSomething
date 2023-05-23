@@ -1,11 +1,11 @@
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub Profile represent my journey :running_man:.<br>I'm Shah Raza, a Computer Systems Engineer, Game of Thrones superfan, and the most boring guy you'll ever meet. With dreams of becoming an astronaut, I somehow ended up being a Mobile App Developer. While my dreams of becoming an astronaut may have floated away like a rogue satellite, my love for coding keeps me soaring in the digital realm. In my free time, I enjoy watching mind-bending shows/movies, listening to 90's music and spending time with my friends. Oh, and I'm Batman 🦇
-<br><br>
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub Profile represent my journey :running_man:.<br>I'm Shah Raza, a Computer Systems Engineer, Game of Thrones superfan, and the most boring guy you'll ever meet. With dreams of becoming an astronaut, I somehow ended up being a Mobile App Developer. While my dreams of becoming an astronaut may have floated away like a rogue satellite, my love for coding keeps me soaring in the digital realm. 
+
 On GitHub, I have contributed to a number of open source projects and have also developed my own personal projects. Some of my notable contributions include [A-EYE](https://github.com/ShahSomething/A-EYE), [Apptex Chat](https://github.com/apptexsolutions/apptex_chat), and [SnakeOS](https://github.com/ShahSomething/SnakeOS).
 
 
 
-Thank you for visiting my profile. Happy coding and stay batty! 🦇.
+In my free time, I enjoy watching mind-bending shows/movies, listening to 90's music and spending time with my friends. Oh, and I'm Batman 🦇
 </p>
 
 ## Tech Stack :computer:
